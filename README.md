@@ -37,7 +37,7 @@ This project demonstrates how IoT and wireless charging technologies can contrib
 
 ---
 
-# 🛠️ Technologies Used
+🛠️ Technologies Used
 
 ### Hardware
 
@@ -126,35 +126,6 @@ Mobile/Web Dashboard
 
 ---
 
-# 📁 Project Structure
-
-```
-IoT-Wireless-Power-Transmission/
-│
-├── Arduino_Code/
-│   ├── transmitter.ino
-│   └── receiver.ino
-│
-├── Web_Dashboard/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Circuit_Diagram/
-│   └── circuit.png
-│
-├── Images/
-│   ├── prototype.jpg
-│   ├── dashboard.png
-│   └── architecture.png
-│
-├── Documentation/
-│   ├── Project_Report.pdf
-│   └── Presentation.pdf
-│
-├── LICENSE
-└── README.md
-```
 
 ---
 
